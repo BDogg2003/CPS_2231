@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89eba663-d974-45b8-bf4a-f913dc5ae4d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPS_2231_07_work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/arrayLab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/helloWorld.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/numberGuesser.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/overloadMax.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/master/Lab_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/master/numberGuesser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/master/safetyDepositBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_1_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_1_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_1_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_1_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_2_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/day_2_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/helloWorld.java" afterDir="false" />
+    <list default="true" id="89eba663-d974-45b8-bf4a-f913dc5ae4d2" name="Changes" comment="stuff">
+      <change afterPath="$PROJECT_DIR$/src/master/hw_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/misc/day_2_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +73,17 @@
       <workItem from="1675736531031" duration="2109000" />
       <workItem from="1675791146636" duration="4517000" />
       <workItem from="1675963943888" duration="5134000" />
+      <workItem from="1676136066404" duration="5243000" />
+      <workItem from="1676396054352" duration="1300000" />
     </task>
+    <task id="LOCAL-00001" summary="stuff">
+      <created>1676136147237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676136147237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
 </project>
